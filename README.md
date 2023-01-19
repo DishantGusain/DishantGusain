@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dishant
-- 👀 I’m interested in CyberSecurity, Bug Hunting, Website/Application Development, IoT and Gaming !!
-- 🌱 I’m currently learning Web Application Penetration Testing.
-- 🌱 Programming languages i've experience in : C, Javascript, HTML, CSS, Reactjs, React Native and SQL !!
-- 🌱 Tools i've experience with : BurpSuite, sqlmap, Adobe Photoshop and Adobe Illustrator.
+- 👀 I’m interested in CyberSecurity, Website/Application Development, IoT and Gaming !!
+- 🌱 I’m currently learning Web/App Pentesting and Working as a React Web/App Developer.
+- 🌱 Programming languages and Frameworks i've experience in :  HTML, CSS, Javascript, Reactjs, React Native and SQL !!
+- 🌱 Tools/OS i've experience with : Windows/Linux, BurpSuite, sqlmap, Adobe Photoshop and Adobe Illustrator.
 - 📫 You can reach me through dyno3ddd@gmail.com.
 
 <!---
