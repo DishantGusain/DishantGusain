@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Dishant
-- 👀 I’m interested in CyberSecurity, Website/Application Development, IoT and Gaming !!
-- 🌱 I’m currently working as a React Web/App Developer and learning Web/App Pentesting.
-- 🌱 Programming languages and Frameworks i've experience in :  HTML, CSS, Javascript, Reactjs, Styled-Components, Tailwind, React Native and SQL !!
-- 🌱 Tools/Operating Systems i've experience with : Windows/Linux, BurpSuite, sqlmap, Adobe Photoshop and Adobe Illustrator.
+- 👀 I’m interested in Web App Development, CyberSecurity, IoT and Gaming !!
+- 🌱 Currently working as a Freelance React/Next Js Web App Developer.
+- 🌱 Hands on experience in :
+      - HTML, CSS, Javascript, SQL, Firebase
+      - Reactjs, NextJs, React Native,
+      - Styled-Components, Tailwind, Redux-toolkit,
+      - Figma, AdobeXD, Adobe Photoshop, Adobe Illustrator,
+      - Windows/Linux, BurpSuite & sqlmap.
 - 📫 You can reach me through dyno3ddd@gmail.com.
 
 <!---
