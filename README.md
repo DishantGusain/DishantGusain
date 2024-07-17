@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dishant Gusain</h1>
 <h3 align="center">I'm a seasoned React/Next.js Developer specializing in Front-End development With 3 years of extensive professional experience. I enjoy developing Dynamic & Responsive React Web Applications using modern frameworks like Next.js that provide real value to the end user. Delivering quality work within time and budget which meets client's requirements is my moto.</h3>
 
-- 🔭 I’m currently working as a <a  href="https://www.upwork.com/freelancers/dishantgusain" target="_blank">Fulltime Freelancer</a>
+- 🔭 I’m currently working as a [Fulltime Freelancer](https://www.upwork.com/freelancers/dishantgusain)
 
 - 👨‍💻 All of my projects are available at [https://dishant.info/](https://dishant.info/)
 
