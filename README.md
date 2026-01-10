@@ -7,5 +7,4 @@
 - Visit my portfolio website @ [dishant.info](https://dishant.info)
 - email@dishant.info
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishantgusain&theme=dark" alt="dishantgusain" /></p>
 
